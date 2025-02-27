@@ -1,5 +1,3 @@
-#include <string>
-
 
 struct BookCollection
 {
@@ -10,6 +8,7 @@ class Book
 {
     string title;
     string author;
+    string hello;
     bool availability;
 };
 
